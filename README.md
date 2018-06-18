@@ -21,4 +21,4 @@ integration specs.
 
 Note: You can still write jUnit test under test.java folder. It is possible to test your units with both framework.
 
-[more about spock](http://spockframework.org/)
+[more about spock](http://spockframework.org/){:target="_blank"}
