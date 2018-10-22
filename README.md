@@ -1,5 +1,5 @@
 ## Spock Testing for Java Project
-This project is created to explain how spock specification testing could be done in a java project.
+This project is created to explain how spock specification unit testing could be done in a java project.
 
 ### Technology that we used
 1. Gradle
